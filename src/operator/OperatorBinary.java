@@ -8,5 +8,14 @@ public class OperatorBinary {
 
     String nama = "Muhammad Ariva";
     int julahsks = 24;
-    double indeksPresentasiKumilatif = 3.89;
+    double indeksPrestasiKumilatif = 3.89;
+
+    public static void main(String[] args) {
+        System.out.println(9+3);
+        System.out.println(9-3);
+        System.out.println(9*3);
+        System.out.println(9/3);
+        System.out.println(9%3);
+        System.out.println(9%2);
+    }
 }
